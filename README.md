@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  📍 Germany · 💼 <b>Open to Junior Backend roles</b> (Remote / Hybrid)<br>
+  📍 Germany · 💼 <b>Open to Junior Backend roles</b><br>
   🟢 <b>Offen für Junior Backend Positionen</b> in Deutschland
 </p>
 
@@ -56,6 +56,6 @@ Console-based Snake-style game in pure Java — OOP exercise.
 ---
 
 <p align="center">
-  <i>Currently looking for <b>Junior Python Backend</b> roles in Germany 🇩🇪 — Remote or Hybrid.</i><br>
-  <i>Aktuell auf der Suche nach <b>Junior Python Backend</b> Stellen in Deutschland — Remote oder Hybrid.</i>
+  <i>Currently looking for <b>Junior Python Backend</b> roles in Germany 🇩🇪.</i><br>
+  <i>Aktuell auf der Suche nach <b>Junior Python Backend</b> Stellen in Deutschland.</i>
 </p>
